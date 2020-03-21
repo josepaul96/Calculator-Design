@@ -1,0 +1,32 @@
+.mymargin{
+    margin:5px;
+    color: whitesmoke;
+    margin-left: 5px;
+
+}
+.mymargin2{
+    margin:1px;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+}
+.myfont{
+    color: navy;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.myfont2{
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    background-color: black;
+    
+}
+.label1{
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: dimgrey;
+}
+.border1{
+    border-width: 4px;
+}
